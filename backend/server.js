@@ -33,5 +33,3 @@ app.listen(port,()=>{
     console.log(`Server started on http://localhost:${port}`)
 })
 
-//mongodb+srv://greatstack:186312@cluster0.ovanjzw.mongodb.net/?
-//retryWrites=true&w=majority&appName=Cluster0
